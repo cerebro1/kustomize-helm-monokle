@@ -12,7 +12,7 @@ spec:
         - name: nginx
           env:
             - name: HELLO
-              value: WORLD
+              value: WORLDS
           resources:
             requests:
               memory: "512Mi"
